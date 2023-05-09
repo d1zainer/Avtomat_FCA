@@ -1,0 +1,9 @@
+#-----------------------------------------------------------
+# Vivado v2012.4 (64-bit)
+# Build 222254 by xbuild on Tue Dec 18 05:21:09 MST 2012
+# Start of session at: Sat Dec 12 13:22:27 2015
+# Process ID: 3376
+# Log file: D:/lab_made/lab_3_of_4/lab_3_of_4.runs/impl_1/fin_avt.rdi
+# Journal file: D:/lab_made/lab_3_of_4/lab_3_of_4.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source fin_avt.tcl -notrace

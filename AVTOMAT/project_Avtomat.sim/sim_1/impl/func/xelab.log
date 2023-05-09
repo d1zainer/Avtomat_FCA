@@ -1,0 +1,36 @@
+Vivado Simulator 2012.4
+Copyright 1986-1999, 2001-2012 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/14.4/ISE_DS/PlanAhead/bin/unwrapped/win64.o/xelab.exe --incremental --debug typical --O2 --relax --mt auto -L work -L secureip --snapshot finit_avt_finit_avt_tb_func_impl --prj D:/lab_made/lab_3_of_4/lab_3_of_4.sim/sim_1/impl/func/finit_avt_finit_avt_tb.prj work.finit_avt_finit_avt_tb 
+Determining compilation order of HDL files
+INFO: [VRFC 10-165] Analyzing Verilog file "D:/Xilinx/14.4/ISE_DS/PlanAhead/data/verilog/src/glbl.v" into library work
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/lab_made/lab_3_of_4/lab_3_of_4.sim/sim_1/impl/func/finit_avt_finit_avt_tb_func_impl.vhd" into library work
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/lab_made/lab_3_of_4/lab_3_of_4.srcs/sim_1/new/sim_addr_sel.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package unisim.vcomponents
+Compiling package std.textio
+Compiling package ieee.vital_timing
+Compiling package ieee.vital_primitives
+Compiling package unisim.vpkg
+Compiling architecture vcc_v of entity unisim.VCC [vcc_default]
+Compiling architecture bufg_v of entity unisim.BUFG [bufg_default]
+Compiling architecture ibuf_v of entity unisim.IBUF [\IBUF("DONT_CARE","0",true,"AUTO...]
+Compiling architecture obuf_v of entity unisim.OBUF [\OBUF("DONT_CARE",12,"DEFAULT","...]
+Compiling architecture lut2_v of entity unisim.LUT2 [\LUT2("1000")(0,3)\]
+Compiling architecture lut3_v of entity unisim.LUT3 [\LUT3("00001110")(0,7)\]
+Compiling architecture lut2_v of entity unisim.LUT2 [\LUT2("0010")(0,3)\]
+Compiling architecture fdce_v of entity unisim.FDCE [\FDCE('0')\]
+Compiling architecture lut4_v of entity unisim.LUT4 [\LUT4("0000001001100110")(0,15)\]
+Compiling architecture lut4_v of entity unisim.LUT4 [\LUT4("0000000001101010")(0,15)\]
+Compiling architecture lut4_v of entity unisim.LUT4 [\LUT4("0010000000000100")(0,15)\]
+Compiling architecture structure of entity work.fin_avt [fin_avt_default]
+Compiling architecture behavioral of entity work.finit_avt_finit_avt_tb
+Built simulation snapshot finit_avt_finit_avt_tb_func_impl

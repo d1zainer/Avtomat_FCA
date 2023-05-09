@@ -1,0 +1,9 @@
+#-----------------------------------------------------------
+# Vivado v2012.4 (64-bit)
+# Build 222254 by xbuild on Tue Dec 18 05:21:09 MST 2012
+# Start of session at: Tue Dec 01 10:29:07 2015
+# Process ID: 1588
+# Log file: D:/VHDL_learn/to_1st_lab/to_1st_lab.runs/impl_1/addr_sel.rdi
+# Journal file: D:/VHDL_learn/to_1st_lab/to_1st_lab.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source addr_sel.tcl -notrace

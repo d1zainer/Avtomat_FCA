@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Mon Feb 27 13:28:51 2023">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="214aefa9cb13474e8bf9c495ccd48aac" type="ProjectID"/>
+<property name="ProjectIteration" value="32" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="AddSrc" value="6" type="JavaHandler"/>
+<property name="AutoEnforceLegalIOPlacement" value="2" type="JavaHandler"/>
+<property name="CreateBlockDesign" value="2" type="JavaHandler"/>
+<property name="EditDelete" value="3" type="JavaHandler"/>
+<property name="FedToggleRoutingResources" value="1" type="JavaHandler"/>
+<property name="GenerateOutputForBDFile" value="1" type="JavaHandler"/>
+<property name="NewProject" value="1" type="JavaHandler"/>
+<property name="ProjectSettings" value="5" type="JavaHandler"/>
+<property name="ProjectSettingsCmdHandler" value="1" type="JavaHandler"/>
+<property name="ReportCDC" value="1" type="JavaHandler"/>
+<property name="ReportClockNetworks" value="1" type="JavaHandler"/>
+<property name="ReportUtilization" value="1" type="JavaHandler"/>
+<property name="RunBitgen" value="11" type="JavaHandler"/>
+<property name="RunImplementation" value="36" type="JavaHandler"/>
+<property name="RunNoiseAnalysis" value="1" type="JavaHandler"/>
+<property name="RunPowerEstimation" value="1" type="JavaHandler"/>
+<property name="RunSchematic" value="2" type="JavaHandler"/>
+<property name="RunSynthesis" value="32" type="JavaHandler"/>
+<property name="SaveProjectAs" value="4" type="JavaHandler"/>
+<property name="ShowIONets" value="1" type="JavaHandler"/>
+<property name="ShowPowerEstimation" value="1" type="JavaHandler"/>
+<property name="ShowView" value="28" type="JavaHandler"/>
+<property name="SimulationClose" value="3" type="JavaHandler"/>
+<property name="SimulationRun" value="46" type="JavaHandler"/>
+<property name="ToggleShowInstanceConnections" value="1" type="JavaHandler"/>
+<property name="ViewTaskImplementation" value="9" type="JavaHandler"/>
+<property name="ViewTaskProjectManager" value="3" type="JavaHandler"/>
+<property name="ViewTaskRTLAnalysis" value="5" type="JavaHandler"/>
+<property name="ViewTaskSynthesis" value="2" type="JavaHandler"/>
+<property name="XdcCreateClock" value="1" type="JavaHandler"/>
+<property name="XdcSetInputDelay" value="1" type="JavaHandler"/>
+<property name="XdcSetOutputDelay" value="1" type="JavaHandler"/>
+<property name="ZoomIn" value="10" type="JavaHandler"/>
+<property name="ZoomOut" value="11" type="JavaHandler"/>
+</item>
+<item name="Gui Resources Info">
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, RTL Analysis, Elaboration Settings], 13, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, RTL Analysis, Open Elaborated Design], 14, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.StateMonitor_CANCEL, Cancel" value="2" type="GuiResourceData"/>
+</item>
+<item name="Other">
+<property name="GuiMode" value="157" type="GuiMode"/>
+<property name="BatchMode" value="0" type="BatchMode"/>
+<property name="TclMode" value="116" type="TclMode"/>
+</item>
+</section>
+</application>
+</document>

@@ -1,0 +1,1 @@
+-wto "af226fd2f62f4d6b955349152f35d11f" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "finit_avt_finit_avt_tb_behav" "xil_defaultlib.finit_avt_finit_avt_tb" -log "elaborate.log" 

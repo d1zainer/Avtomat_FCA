@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/AVTOMAT_1.1/project_Avtomat.srcs/sources_1/new/finit_avt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity fin_avt
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/AVTOMAT_1.1/project_Avtomat.srcs/sim_1/new/sim_addr_sel.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity finit_avt_finit_avt_tb
